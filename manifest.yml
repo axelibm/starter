@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: starter-node-github
+  host: starter-node-github
+  disk_quota: 1024M
