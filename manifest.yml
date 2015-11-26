@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: starter-node-github
-  host: starter-node-github
+  name: nodejs-pipeline-setup-axel
+  host: nodejs-pipeline-setup-axel
   disk_quota: 1024M
